@@ -1,6 +1,6 @@
 def computegrade (score):
     if (fcr > 1):
-        return("Fuck Off Overachiever")
+        return("Screw Off Overachiever")
     elif (fcr >= 0.9):
         return('A')
     elif (fcr >= 0.8):
