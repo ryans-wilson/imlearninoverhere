@@ -1,3 +1,2 @@
 # imlearninoverhere
-Tracking my progress through OSSU and more!
-Uploading code that I have enjoyed making or found challenging at the time to see my development through OSSU and other programs.
+Start of my CS Journey. Attached is code solutions that I developed from taking Charles Severance's PY4E course.
